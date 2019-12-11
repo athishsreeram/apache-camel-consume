@@ -13,7 +13,7 @@ public final class MyApplication {
 
     public static void main(String[] args) throws Exception {
         Main main = new Main();
-        main.addRouteBuilder(new SimpleRouteBuilder());
+        main.addRouteBuilder(new SimpleRouteBuilder2());
         main.run(args);
     }
 
