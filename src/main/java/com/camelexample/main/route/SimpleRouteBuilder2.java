@@ -8,8 +8,6 @@ import org.apache.camel.LoggingLevel;
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.model.rest.RestBindingMode;
 import org.apache.cxf.message.MessageContentsList;
-import org.tempuri.Add;
-import org.tempuri.AddResponse;
 
 import javax.ws.rs.core.MediaType;
 
