@@ -20,7 +20,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <camel.version>3.0.0-RC2</camel.version>
-        <log.version>2.12.1</log.version>
+        <log.version>2.15.0</log.version>
     </properties>
 
 
